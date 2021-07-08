@@ -1,3 +1,5 @@
+**Requires deepstream 5.1 installed
+
 Steps to Run 
 1-Download LPRNet model and Place in /models/LPR/cuda11.1_cudnn8.0_trt7.2-20210304T191646Z-001/cuda11.1_cudnn8.0_trt7.2
 Download link - https://ngc.nvidia.com/catalog/models/nvidia:tlt_lprnet
