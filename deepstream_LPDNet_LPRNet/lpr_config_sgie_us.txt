@@ -48,9 +48,9 @@
 
 [property]
 gpu-id=0
-model-engine-file=./models/LPR/lpr_us_onnx_b32.engine
-#model-engine-file=./models/LPR/us_lprnet_baseline18_deployable.etlt
-#labelfile-path=./models/LPR/labels_us.txt
+model-engine-file=../models/LPR/lpr_us_onnx_b32.engine
+#model-engine-file=../models/LPR/us_lprnet_baseline18_deployable.etlt
+#labelfile-path=../models/LPR/labels_us.txt
 batch-size=16
 ## 0=FP32, 1=INT8, 2=FP16 mode
 network-mode=0
